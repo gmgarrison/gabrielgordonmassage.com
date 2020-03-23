@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975f2309-21d7-4557-961c-f49928d4cb18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y0G5k7WFR5UTmdJNQjykFdYDll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/dimension/assets/css" />
+      <recent name="$PROJECT_DIR$/dimension/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975f2309-21d7-4557-961c-f49928d4cb18" name="Default Changelist" comment="" />
+      <created>1582088778470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582088778470</updated>
+      <workItem from="1582088781499" duration="11000" />
+      <workItem from="1582134606711" duration="1822000" />
+      <workItem from="1582174361670" duration="3376000" />
+      <workItem from="1582305254993" duration="544000" />
+      <workItem from="1582479674783" duration="9560000" />
+      <workItem from="1582737700874" duration="3356000" />
+      <workItem from="1582997922423" duration="463000" />
+      <workItem from="1583160017726" duration="657000" />
+      <workItem from="1583194664160" duration="1116000" />
+      <workItem from="1583354277684" duration="8574000" />
+      <workItem from="1583436080821" duration="3340000" />
+      <workItem from="1584228210362" duration="571000" />
+      <workItem from="1584646051979" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2593" y="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583371563823">
+      <screen x="1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="2593" y="406" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583371563823" />
+    <state x="2021" y="123" width="1719" height="947" key="DiffContextDialog" timestamp="1583517607690">
+      <screen x="1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="2021" y="123" width="1719" height="947" key="DiffContextDialog/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583517607690" />
+    <state x="2021" y="123" width="1719" height="947" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583436425061">
+      <screen x="1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="2021" y="123" width="1719" height="947" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583436425061" />
+    <state x="2544" y="360" width="673" height="472" key="find.popup" timestamp="1583367520488">
+      <screen x="1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="2544" y="360" width="673" height="472" key="find.popup/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583367520488" />
+  </component>
+</project>
