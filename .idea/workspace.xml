@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975f2309-21d7-4557-961c-f49928d4cb18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1583436080821" duration="3340000" />
       <workItem from="1584228210362" duration="571000" />
       <workItem from="1584646051979" duration="253000" />
-      <workItem from="1586108540225" duration="536000" />
+      <workItem from="1586108540225" duration="810000" />
     </task>
     <servers />
   </component>
@@ -100,9 +99,9 @@
       <screen x="1920" y="23" width="1920" height="1177" />
     </state>
     <state x="2021" y="123" width="1719" height="947" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583436425061" />
-    <state x="2544" y="360" width="673" height="472" key="find.popup" timestamp="1583367520488">
+    <state x="2544" y="360" width="1050" height="549" key="find.popup" timestamp="1586109532918">
       <screen x="1920" y="23" width="1920" height="1177" />
     </state>
-    <state x="2544" y="360" width="673" height="472" key="find.popup/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1583367520488" />
+    <state x="2544" y="360" width="1050" height="549" key="find.popup/1920.23.1920.1177/0.23.1920.1177@1920.23.1920.1177" timestamp="1586109532918" />
   </component>
 </project>
