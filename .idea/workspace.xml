@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975f2309-21d7-4557-961c-f49928d4cb18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +80,7 @@
       <workItem from="1583436080821" duration="3340000" />
       <workItem from="1584228210362" duration="571000" />
       <workItem from="1584646051979" duration="253000" />
+      <workItem from="1586108540225" duration="536000" />
     </task>
     <servers />
   </component>
